@@ -1,6 +1,7 @@
 HR-ANALYTICS-DASHBOARD-USING-POWER-BI
 
-https://github.com/shivanivermank/Hr-DashBoard/assets/138860713/9ddfc00c-b6bc-4828-8ff4-a9c44d698cdd
+![img1](https://github.com/shivanivermank/Hr-DashBoard/assets/138860713/7a9b7305-6cb6-4b78-98b9-70b3851d0e7a)
+
 
 PROJECT NAME :
 HR Analytics Dashboard: A Complete Employee Data Analysis Project using Power BI
