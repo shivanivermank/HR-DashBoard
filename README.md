@@ -51,7 +51,9 @@ The donut chart show the attrition rates segmented by gender within different ag
 
 
 DASHBOARD VIDEO :
-https://github.com/shivanivermank/Hr-DashBoard/assets/138860713/8e767b52-6015-420f-8679-bea3d4d57c77
+
+https://github.com/shivanivermank/Hr-DashBoard/assets/138860713/c7cffe23-0754-4fc6-9040-b8cd90351be8
+
 
 Dashboard Overview :
 The HR Analytics Dashboard is a powerful Power BI-based tool designed to provide HR professionals with comprehensive insights into key HR metrics and trends. It combines visually appealing and interactive visualizations to enable data-driven decision-making, optimize HR processes, and enhance employee engagement.
