@@ -25,7 +25,7 @@ Steps Overview :
 4)   Data Visualization
 
 DASHBOARD :
-"https://github.com/shivanivermank/Hr-DashBoard/assets/138860713/28ddb988-f82b-4abc-a9ae-e321a7df7eaa"
+<img width="609" alt="hr-dashboard" src="https://github.com/shivanivermank/Hr-DashBoard/assets/138860713/e6865c0f-e9c2-4ed8-9637-c41c123b811f">
 
 DASHBOARD CONTENT :
 1st Sheet : KPI
